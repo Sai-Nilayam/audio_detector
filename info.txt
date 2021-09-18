@@ -1,1 +1,3 @@
 For buidling a Word Detection Model from an Audio of m seconds.
+
+From now I am going to work on a branch name 'dev_sai' and use that branch to finally merge with the 'master' branch. This is the way normally work is done for most of the Projects.  
